@@ -96,7 +96,7 @@ const About = () => {
                 </li>
                 <li>
                   <span className="font-medium">Address:</span>{' '}
-                  59/1/2C Gariahat Road South, Kolkata - 700 031, West Bengal, India
+                  No:346 Merujeen Complex, Ramchandrapur, Kolkata - 700103, West Bengal, India
                 </li>
               </ul>
             </div>

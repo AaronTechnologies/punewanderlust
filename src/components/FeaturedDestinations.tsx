@@ -18,7 +18,7 @@ const FeaturedDestinations: React.FC = () => {
       name: 'Lonavala',
       distance: '65 km',
       description: 'A picturesque hill station known for its natural beauty, waterfalls, and lush green valleys.',
-      image: 'https://images.unsplash.com/photo-1619837374214-f5b9eb80876d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80',
+      image: 'https://images.unsplash.com/photo-1598086799526-536572e1ada6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80',
       category: 'hill-stations'
     },
     {
@@ -26,7 +26,7 @@ const FeaturedDestinations: React.FC = () => {
       name: 'Mahabaleshwar',
       distance: '120 km',
       description: 'Famous for strawberries and panoramic views, this hill station offers lush green forests and breathtaking valleys.',
-      image: 'https://images.unsplash.com/photo-1593181629936-11c609b8db9b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80',
+      image: 'https://images.unsplash.com/photo-1611758949270-5d3740ca6161?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80',
       category: 'hill-stations'
     },
     {
@@ -34,7 +34,7 @@ const FeaturedDestinations: React.FC = () => {
       name: 'Alibaug',
       distance: '95 km',
       description: 'A coastal town with beautiful beaches, historic forts, and tranquil ambiance.',
-      image: 'https://images.unsplash.com/photo-1629462461569-08f36b98de8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80',
+      image: 'https://images.unsplash.com/photo-1595064272175-777efb76e063?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80',
       category: 'beaches'
     },
     {
@@ -42,7 +42,7 @@ const FeaturedDestinations: React.FC = () => {
       name: 'Ajanta & Ellora Caves',
       distance: '240 km',
       description: 'UNESCO World Heritage Sites with ancient Buddhist cave temples and sculptures.',
-      image: 'https://images.unsplash.com/photo-1612298867036-39a990ca3dad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
+      image: 'https://images.unsplash.com/photo-1590766165169-9a8ca5a2762f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
       category: 'historical-sites'
     }
   ];

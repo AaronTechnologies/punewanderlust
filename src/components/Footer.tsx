@@ -51,8 +51,8 @@ const Footer: React.FC = () => {
               </li>
               <li className="text-gray-600 text-sm">
                 <span className="block font-medium text-gray-900">Address:</span>
-                59/1/2C Gariahat Road South<br />
-                Kolkata - 700 031<br />
+                No:346 Merujeen Complex<br />
+                Ramchandrapur, Kolkata - 700103<br />
                 West Bengal, India
               </li>
             </ul>

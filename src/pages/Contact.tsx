@@ -66,8 +66,8 @@ const Contact = () => {
                     <div>
                       <h4 className="text-sm uppercase tracking-wider font-medium text-gray-500 mb-2">Our Address</h4>
                       <p className="text-gray-900">
-                        59/1/2C Gariahat Road South<br />
-                        Kolkata - 700 031<br />
+                        No:346 Merujeen Complex<br />
+                        Ramchandrapur, Kolkata - 700103<br />
                         West Bengal, India
                       </p>
                     </div>

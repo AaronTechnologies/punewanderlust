@@ -40,7 +40,7 @@ const Destinations = () => {
       location: 'Western Ghats',
       distance: '65 km from Pune',
       description: 'A picturesque hill station known for its natural beauty, waterfalls, and lush green valleys.',
-      image: 'https://images.unsplash.com/photo-1619837374214-f5b9eb80876d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80',
+      image: 'https://images.unsplash.com/photo-1598086799526-536572e1ada6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80',
       category: 'hill-stations'
     },
     {
@@ -49,7 +49,7 @@ const Destinations = () => {
       location: 'Western Ghats',
       distance: '120 km from Pune',
       description: 'Famous for strawberries and panoramic views, this hill station offers lush green forests and breathtaking valleys.',
-      image: 'https://images.unsplash.com/photo-1593181629936-11c609b8db9b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80',
+      image: 'https://images.unsplash.com/photo-1611758949270-5d3740ca6161?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80',
       category: 'hill-stations'
     },
     {
@@ -58,7 +58,7 @@ const Destinations = () => {
       location: 'Konkan Coast',
       distance: '95 km from Pune',
       description: 'A coastal town with beautiful beaches, historic forts, and tranquil ambiance.',
-      image: 'https://images.unsplash.com/photo-1629462461569-08f36b98de8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80',
+      image: 'https://images.unsplash.com/photo-1595064272175-777efb76e063?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80',
       category: 'beaches'
     },
     {
@@ -67,7 +67,7 @@ const Destinations = () => {
       location: 'Aurangabad',
       distance: '240 km from Pune',
       description: 'UNESCO World Heritage Sites with ancient Buddhist cave temples and sculptures.',
-      image: 'https://images.unsplash.com/photo-1612298867036-39a990ca3dad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
+      image: 'https://images.unsplash.com/photo-1590766165169-9a8ca5a2762f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
       category: 'historical-sites'
     },
     {
@@ -76,7 +76,7 @@ const Destinations = () => {
       location: 'Western Ghats',
       distance: '75 km from Pune',
       description: 'A twin hill station to Lonavala, offering stunning views of valleys and waterfalls.',
-      image: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80',
+      image: 'https://images.unsplash.com/photo-1599663253408-862efbc36272?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80',
       category: 'hill-stations'
     },
     {
@@ -85,7 +85,7 @@ const Destinations = () => {
       location: 'Mahad',
       distance: '130 km from Pune',
       description: 'Historic fort that was the capital of the Maratha Empire under Chhatrapati Shivaji Maharaj.',
-      image: 'https://images.unsplash.com/photo-1624653722864-84b0e5ba7d5c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80',
+      image: 'https://images.unsplash.com/photo-1608975418554-6e7781932d68?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80',
       category: 'historical-sites'
     },
     {
@@ -94,7 +94,7 @@ const Destinations = () => {
       location: 'Raigad District',
       distance: '170 km from Pune',
       description: 'A pristine beach known for its clean shoreline, swaying palm trees, and peaceful atmosphere.',
-      image: 'https://images.unsplash.com/photo-1538964173425-93884d739596?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80',
+      image: 'https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80',
       category: 'beaches'
     },
     {
@@ -103,7 +103,7 @@ const Destinations = () => {
       location: 'Western Ghats',
       distance: '100 km from Pune',
       description: 'Dense forest area home to the Indian Giant Squirrel and various other wildlife species.',
-      image: 'https://images.unsplash.com/photo-1645348071640-210017b6e6c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80',
+      image: 'https://images.unsplash.com/photo-1631889993959-41b4e9c6e3c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80',
       category: 'wildlife'
     }
   ];

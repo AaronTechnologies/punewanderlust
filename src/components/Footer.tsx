@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { Link } from 'react-router-dom';
 import SocialLinks from './SocialLinks';
@@ -42,11 +43,11 @@ const Footer: React.FC = () => {
             <ul className="space-y-3">
               <li className="text-gray-600 text-sm">
                 <span className="block font-medium text-gray-900">Phone:</span>
-                +91 9830273758 / +91 9007138440
+                +919007638888
               </li>
               <li className="text-gray-600 text-sm">
                 <span className="block font-medium text-gray-900">Email:</span>
-                <a href="mailto:kolkataweekends@gmail.com" className="hover:text-primary">kolkataweekends@gmail.com</a>
+                <a href="mailto:customercare@aaronmspl.com" className="hover:text-primary">customercare@aaronmspl.com</a>
               </li>
               <li className="text-gray-600 text-sm">
                 <span className="block font-medium text-gray-900">Address:</span>

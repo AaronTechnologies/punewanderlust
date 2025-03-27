@@ -86,13 +86,13 @@ const About = () => {
               <ul className="space-y-2">
                 <li>
                   <span className="font-medium">Email:</span>{' '}
-                  <a href="mailto:kolkataweekends@gmail.com" className="text-primary hover:underline">
-                    kolkataweekends@gmail.com
+                  <a href="mailto:customercare@aaronmspl.com" className="text-primary hover:underline">
+                    customercare@aaronmspl.com
                   </a>
                 </li>
                 <li>
                   <span className="font-medium">Phone:</span>{' '}
-                  +91 9830273758 / +91 9007138440
+                  +919007638888
                 </li>
                 <li>
                   <span className="font-medium">Address:</span>{' '}

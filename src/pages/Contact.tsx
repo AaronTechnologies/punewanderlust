@@ -1,3 +1,4 @@
+
 import React, { useEffect, useState } from 'react';
 import Layout from '@/components/Layout';
 import SocialLinks from '@/components/SocialLinks';
@@ -73,16 +74,15 @@ const Contact = () => {
                     
                     <div>
                       <h4 className="text-sm uppercase tracking-wider font-medium text-gray-500 mb-2">Email Us</h4>
-                      <a href="mailto:kolkataweekends@gmail.com" className="text-primary hover:underline">
-                        kolkataweekends@gmail.com
+                      <a href="mailto:customercare@aaronmspl.com" className="text-primary hover:underline">
+                        customercare@aaronmspl.com
                       </a>
                     </div>
                     
                     <div>
                       <h4 className="text-sm uppercase tracking-wider font-medium text-gray-500 mb-2">Call Us</h4>
                       <p className="text-gray-900">
-                        +91 9830273758<br />
-                        +91 9007138440
+                        +919007638888
                       </p>
                     </div>
                     

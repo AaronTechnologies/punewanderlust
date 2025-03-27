@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Link } from 'react-router-dom';
 
@@ -18,7 +17,7 @@ const FeaturedDestinations: React.FC = () => {
       name: 'Lonavala',
       distance: '65 km',
       description: 'A picturesque hill station known for its natural beauty, waterfalls, and lush green valleys.',
-      image: 'https://images.unsplash.com/photo-1598086799526-536572e1ada6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80',
+      image: 'https://images.unsplash.com/photo-1548552619-c6e13362070a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80',
       category: 'hill-stations'
     },
     {
@@ -26,7 +25,7 @@ const FeaturedDestinations: React.FC = () => {
       name: 'Mahabaleshwar',
       distance: '120 km',
       description: 'Famous for strawberries and panoramic views, this hill station offers lush green forests and breathtaking valleys.',
-      image: 'https://images.unsplash.com/photo-1611758949270-5d3740ca6161?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80',
+      image: 'https://images.unsplash.com/photo-1586500036706-41963de24d8e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80',
       category: 'hill-stations'
     },
     {
@@ -34,7 +33,7 @@ const FeaturedDestinations: React.FC = () => {
       name: 'Alibaug',
       distance: '95 km',
       description: 'A coastal town with beautiful beaches, historic forts, and tranquil ambiance.',
-      image: 'https://images.unsplash.com/photo-1595064272175-777efb76e063?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80',
+      image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2073&q=80',
       category: 'beaches'
     },
     {
@@ -42,7 +41,7 @@ const FeaturedDestinations: React.FC = () => {
       name: 'Ajanta & Ellora Caves',
       distance: '240 km',
       description: 'UNESCO World Heritage Sites with ancient Buddhist cave temples and sculptures.',
-      image: 'https://images.unsplash.com/photo-1590766165169-9a8ca5a2762f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
+      image: 'https://images.unsplash.com/photo-1563204622-4c0fba3c3c34?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2073&q=80',
       category: 'historical-sites'
     }
   ];
